@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "biblioteca.db",
+            "database": "${workspaceFolder:TP_Final_Python_Intermedio}/biblioteca.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
